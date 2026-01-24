@@ -1,0 +1,2 @@
+factorialOfNumber module contains function defination to calculate factorial of number using recursive function
+mathModuleUses module imports math module to calculate square root, logarithm and sine of user provided number
